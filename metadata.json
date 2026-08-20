@@ -1,0 +1,8 @@
+{
+  "name": "Self-Operating Computer",
+  "description": "Multimodal AI framework enabling vision models to view screens and execute mouse clicks, typing, hotkeys, and automated computer workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
